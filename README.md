@@ -1,2 +1,6 @@
 # 7dtd-server-setup
-Steps on how to set up a 7 Days to Die server
+These repo contains notes and configuration steps on how to set up a 7 Days to Die server
+
+- Proxmox
+- Ubuntu Server
+- Portainer
